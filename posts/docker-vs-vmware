@@ -1,7 +1,7 @@
 ---
 title: Docker vs VMWare: How Do They Stack Up?
 description: "This is a clash of virtualization titans: one virtual machine, the other a containerization technology. In reality, both are complementary technologies—as hardware virtualization and containerization each have their distinct qualities and can be used in tandem for combinatorial benefits. Letʼs take a look at each to find out how they stack up against each other, as well as how the two can be used in tandem for achieving maximum agility."
-date: JUN 16 2022
+date: June 16 2022
 ---
 
 ##Containers vs. Virtual Machines
