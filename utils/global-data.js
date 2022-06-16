@@ -1,7 +1,8 @@
 export const getGlobalData = () => {
   const name = process.env.BLOG_NAME
     ? decodeURI(process.env.BLOG_NAME)
-    : 'ℹ️.T. WORKS 8️⃣4️⃣4️⃣-7️⃣1️⃣1️⃣-0️⃣0️⃣0️⃣7️⃣';
+    : 'ℹtwerks.net
+  844-711-0007';
   const blogTitle = process.env.BLOG_TITLE
     ? decodeURI(process.env.BLOG_TITLE)
     : 'Making I.T. Invisible';
